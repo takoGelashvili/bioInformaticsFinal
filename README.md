@@ -11,6 +11,7 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC11805404/
 
 Published in PLoS One, this study explores the common molecular mechanisms between Alzheimer's Disease (AD) and Osteoarthritis (OA) through comprehensive gene expression analysis.
 
+Presentation: https://docs.google.com/presentation/d/1FQNh8EwTTr3KzXDJ70ZClnFaVDYugvfqSEfWw_Lf-CI/edit?slide=id.p19#slide=id.p19
 ---
 
 ## Differences

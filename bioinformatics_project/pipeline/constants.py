@@ -1,0 +1,3 @@
+STRING_API_URL = "https://string-db.org/api"
+STRING_SPECIES = 9606
+STRING_MIN_SCORE = 400

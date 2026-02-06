@@ -1,0 +1,197 @@
+Term,Count,P_value,Category
+Cell adhesion molecules,15,1.3670538990667619e-12,KEGG Pathway
+Viral myocarditis,10,5.523803493980379e-11,KEGG Pathway
+Hematopoietic cell lineage,11,5.441232393338561e-10,KEGG Pathway
+Leishmaniasis,9,1.3461649256426386e-08,KEGG Pathway
+Tuberculosis,12,3.120805149715562e-08,KEGG Pathway
+Phagosome,11,5.145995238492468e-08,KEGG Pathway
+Rheumatoid arthritis,9,7.177340958809777e-08,KEGG Pathway
+Staphylococcus aureus infection,9,8.646327060703178e-08,KEGG Pathway
+Intestinal immune network for IgA production,7,1.2167006338629932e-07,KEGG Pathway
+Allograft rejection,6,6.16171699997153e-07,KEGG Pathway
+Epstein-Barr virus infection,11,9.076648798749826e-07,KEGG Pathway
+Osteoclast differentiation,9,1.0430728032241623e-06,KEGG Pathway
+Graft-versus-host disease,6,1.1395496867733943e-06,KEGG Pathway
+Type I diabetes mellitus,6,1.3154065274284195e-06,KEGG Pathway
+Antigen processing and presentation,7,3.552938898059259e-06,KEGG Pathway
+Toxoplasmosis,8,3.974695969663966e-06,KEGG Pathway
+Autoimmune thyroid disease,6,4.629380679209337e-06,KEGG Pathway
+Lysosome,8,1.0698241202639737e-05,KEGG Pathway
+Yersinia infection,8,1.7573164837062425e-05,KEGG Pathway
+Leukocyte transendothelial migration,7,4.324286779449105e-05,KEGG Pathway
+Influenza A,8,8.891867343951184e-05,KEGG Pathway
+Legionellosis,5,0.000103488422481162,KEGG Pathway
+Th1 and Th2 cell differentiation,6,0.00011051793477998824,KEGG Pathway
+Asthma,4,0.00011537625840133672,KEGG Pathway
+Systemic lupus erythematosus,7,0.00012603455017372837,KEGG Pathway
+Neutrophil extracellular trap formation,8,0.00017064193252381928,KEGG Pathway
+Chemokine signaling pathway,8,0.00019004412882716923,KEGG Pathway
+Th17 cell differentiation,6,0.00025321785748711194,KEGG Pathway
+Rap1 signaling pathway,8,0.0003482810717052941,KEGG Pathway
+Pertussis,5,0.0004029280323739924,KEGG Pathway
+B cell receptor signaling pathway,5,0.0005407346307817291,KEGG Pathway
+NOD-like receptor signaling pathway,7,0.0007472235947791777,KEGG Pathway
+Malaria,4,0.0007482505237115204,KEGG Pathway
+Viral protein interaction with cytokine and cytokine receptor,5,0.001402790092823,KEGG Pathway
+Amoebiasis,5,0.0015317442590324,KEGG Pathway
+Human immunodeficiency virus 1 infection,7,0.0018629117458861,KEGG Pathway
+Inflammatory bowel disease,4,0.0020001615584183,KEGG Pathway
+Human T-cell leukemia virus 1 infection,7,0.0022374619270781,KEGG Pathway
+Fc epsilon RI signaling pathway,4,0.0023606896870971,KEGG Pathway
+Platelet activation,5,0.0035864001788261,KEGG Pathway
+Primary immunodeficiency,3,0.0036997380549668,KEGG Pathway
+Natural killer cell mediated cytotoxicity,5,0.004529220264291,KEGG Pathway
+Kaposi sarcoma-associated herpesvirus infection,6,0.0052332237869782,KEGG Pathway
+Other types of O-glycan biosynthesis,3,0.0067395078868358,KEGG Pathway
+Amino sugar and nucleotide sugar metabolism,3,0.0071461243698664,KEGG Pathway
+Herpes simplex virus 1 infection,10,0.0081399046565469,KEGG Pathway
+Fc gamma R-mediated phagocytosis,4,0.0083667644881158,KEGG Pathway
+Regulation of actin cytoskeleton,6,0.0092917767598246,KEGG Pathway
+Other glycan degradation,2,0.0093806674760117,KEGG Pathway
+Glycosaminoglycan degradation,2,0.0104282459842892,KEGG Pathway
+T cell receptor signaling pathway,4,0.0106266991444236,KEGG Pathway
+Toll-like receptor signaling pathway,4,0.0106266991444236,KEGG Pathway
+Human cytomegalovirus infection,6,0.0107469985125635,KEGG Pathway
+Pyrimidine metabolism,3,0.0109210579233059,KEGG Pathway
+Cytokine-cytokine receptor interaction,7,0.011058729869294,KEGG Pathway
+Arachidonic acid metabolism,3,0.013765085166491,KEGG Pathway
+Neurotrophin signaling pathway,4,0.0167096911546326,KEGG Pathway
+Acute myeloid leukemia,3,0.0176833047537651,KEGG Pathway
+Transcriptional misregulation in cancer,5,0.0211607674268111,KEGG Pathway
+Fluid shear stress and atherosclerosis,4,0.0276720032562457,KEGG Pathway
+Measles,4,0.0276720032562457,KEGG Pathway
+Fructose and mannose metabolism,2,0.0298834613419824,KEGG Pathway
+Lipid and atherosclerosis,5,0.0323314973575075,KEGG Pathway
+ECM-receptor interaction,3,0.0358002158648119,KEGG Pathway
+PD-L1 expression and PD-1 checkpoint pathway in cancer,3,0.0368327901554687,KEGG Pathway
+"Neomycin, kanamycin and gentamicin biosynthesis",1,0.0403368447335561,KEGG Pathway
+Chagas disease,3,0.0516192474158012,KEGG Pathway
+Basal transcription factors,2,0.0525883214904242,KEGG Pathway
+Protein digestion and absorption,3,0.0528593609483448,KEGG Pathway
+C-type lectin receptor signaling pathway,3,0.0541137979478103,KEGG Pathway
+NF-kappa B signaling pathway,3,0.0541137979478103,KEGG Pathway
+Salmonella infection,5,0.054595757103491,KEGG Pathway
+Human papillomavirus infection,6,0.055569738694918,KEGG Pathway
+Pathogenic Escherichia coli infection,4,0.0791911189730558,KEGG Pathway
+Proteoglycans in cancer,4,0.0885581280238918,KEGG Pathway
+Relaxin signaling pathway,3,0.08988044739224,KEGG Pathway
+MAPK signaling pathway,5,0.0949053656219812,KEGG Pathway
+Insulin signaling pathway,3,0.1029722187739597,KEGG Pathway
+Glycolysis / Gluconeogenesis,2,0.1046996396609544,KEGG Pathway
+Long-term potentiation,2,0.1046996396609544,KEGG Pathway
+Renin secretion,2,0.1099479624587171,KEGG Pathway
+Apoptosis,3,0.1115170638878566,KEGG Pathway
+Epithelial cell signaling in Helicobacter pylori infection,2,0.1125978588648162,KEGG Pathway
+Adherens junction,2,0.1152643079293501,KEGG Pathway
+p53 signaling pathway,2,0.1206450889798847,KEGG Pathway
+Hippo signaling pathway,3,0.1501044486252889,KEGG Pathway
+One carbon pool by folate,1,0.1518978967110384,KEGG Pathway
+Steroid biosynthesis,1,0.1518978967110384,KEGG Pathway
+Complement and coagulation cascades,2,0.1540940849599499,KEGG Pathway
+Vitamin digestion and absorption,1,0.1794045201076321,KEGG Pathway
+Axon guidance,3,0.1881260040135228,KEGG Pathway
+Choline metabolism in cancer,2,0.1920254537237865,KEGG Pathway
+Inflammatory mediator regulation of TRP channels,2,0.1920254537237865,KEGG Pathway
+Progesterone-mediated oocyte maturation,2,0.1979711263787093,KEGG Pathway
+Collecting duct acid secretion,1,0.1994509142983881,KEGG Pathway
+Melanogenesis,2,0.2009524927604809,KEGG Pathway
+Phototransduction,1,0.2060242814359963,KEGG Pathway
+Glucagon signaling pathway,2,0.2189421461950375,KEGG Pathway
+Pentose phosphate pathway,1,0.2190105068819787,KEGG Pathway
+HIF-1 signaling pathway,2,0.2249707811249871,KEGG Pathway
+Galactose metabolism,1,0.2254242320592835,KEGG Pathway
+Focal adhesion,3,0.2283071695090216,KEGG Pathway
+Diabetic cardiomyopathy,3,0.2326323081710135,KEGG Pathway
+Viral carcinogenesis,3,0.2326323081710135,KEGG Pathway
+Serotonergic synapse,2,0.237063679870878,KEGG Pathway
+Mucin type O-glycan biosynthesis,1,0.2567160069647113,KEGG Pathway
+Starch and sucrose metabolism,1,0.2567160069647113,KEGG Pathway
+"Alanine, aspartate and glutamate metabolism",1,0.2628219172973192,KEGG Pathway
+Oocyte meiosis,2,0.2856360602175427,KEGG Pathway
+Dopaminergic synapse,2,0.2947328909740273,KEGG Pathway
+Coronavirus disease,3,0.2966454893542006,KEGG Pathway
+Ras signaling pathway,3,0.2966454893542006,KEGG Pathway
+Vasopressin-regulated water reabsorption,1,0.3041897690780613,KEGG Pathway
+ABC transporters,1,0.3099079840096052,KEGG Pathway
+Type II diabetes mellitus,1,0.3155794904528524,KEGG Pathway
+Carbohydrate digestion and absorption,1,0.3212046675359269,KEGG Pathway
+Nucleotide excision repair,1,0.3212046675359269,KEGG Pathway
+Shigellosis,3,0.3280076109143741,KEGG Pathway
+PI3K-Akt signaling pathway,4,0.3306925028544151,KEGG Pathway
+Cholesterol metabolism,1,0.3378059691212722,KEGG Pathway
+N-Glycan biosynthesis,1,0.3378059691212722,KEGG Pathway
+Vibrio cholerae infection,1,0.3378059691212722,KEGG Pathway
+Endocytosis,3,0.3414583394484088,KEGG Pathway
+Ovarian steroidogenesis,1,0.3432495601022805,KEGG Pathway
+mTOR signaling pathway,2,0.3606794756198144,KEGG Pathway
+Regulation of lipolysis in adipocytes,1,0.3645827347443586,KEGG Pathway
+Hepatitis C,2,0.3695171936861995,KEGG Pathway
+Hedgehog signaling pathway,1,0.369807515383916,KEGG Pathway
+Necroptosis,2,0.3753826398418233,KEGG Pathway
+Notch signaling pathway,1,0.3852270327574303,KEGG Pathway
+VEGF signaling pathway,1,0.3852270327574303,KEGG Pathway
+Wnt signaling pathway,2,0.39573207111857,KEGG Pathway
+Basal cell carcinoma,1,0.4052045666594118,KEGG Pathway
+Cytosolic DNA-sensing pathway,1,0.4052045666594118,KEGG Pathway
+GnRH secretion,1,0.4100972920944835,KEGG Pathway
+Amphetamine addiction,1,0.433967325491472,KEGG Pathway
+Central carbon metabolism in cancer,1,0.4386248525413523,KEGG Pathway
+RIG-I-like receptor signaling pathway,1,0.4386248525413523,KEGG Pathway
+Pathways in cancer,5,0.4411911867555217,KEGG Pathway
+Glioma,1,0.461347260468289,KEGG Pathway
+Gastric acid secretion,1,0.4657808293908234,KEGG Pathway
+Pancreatic cancer,1,0.4657808293908234,KEGG Pathway
+Arrhythmogenic right ventricular cardiomyopathy,1,0.4701781268240456,KEGG Pathway
+Synaptic vesicle cycle,1,0.4745394477168269,KEGG Pathway
+Colorectal cancer,1,0.5081694751227666,KEGG Pathway
+Bile secretion,1,0.5241732903748881,KEGG Pathway
+Hypertrophic cardiomyopathy,1,0.5241732903748881,KEGG Pathway
+Morphine addiction,1,0.5280926969223674,KEGG Pathway
+cAMP signaling pathway,2,0.5307491717394225,KEGG Pathway
+GnRH signaling pathway,1,0.5358355033862111,KEGG Pathway
+Salivary secretion,1,0.5358355033862111,KEGG Pathway
+IL-17 signaling pathway,1,0.5396594235623721,KEGG Pathway
+Dilated cardiomyopathy,1,0.5472135822606589,KEGG Pathway
+Circadian entrainment,1,0.5509443284091903,KEGG Pathway
+Phosphatidylinositol signaling system,1,0.5509443284091903,KEGG Pathway
+Aldosterone synthesis and secretion,1,0.5546445208771245,KEGG Pathway
+AGE-RAGE signaling pathway in diabetic complications,1,0.5619542370450903,KEGG Pathway
+"Parathyroid hormone synthesis, secretion and action",1,0.5831755493982907,KEGG Pathway
+Alzheimer disease,3,0.5856163955594849,KEGG Pathway
+Chemical carcinogenesis,2,0.5856799007816853,KEGG Pathway
+Calcium signaling pathway,2,0.587958257223253,KEGG Pathway
+Drug metabolism,1,0.5900197177609761,KEGG Pathway
+Insulin resistance,1,0.5900197177609761,KEGG Pathway
+TNF signaling pathway,1,0.6033747479633057,KEGG Pathway
+Sphingolipid signaling pathway,1,0.6257138047018719,KEGG Pathway
+AMPK signaling pathway,1,0.6288013114833826,KEGG Pathway
+Cell cycle,1,0.640900242270176,KEGG Pathway
+Purine metabolism,1,0.6554741014733175,KEGG Pathway
+Prion disease,2,0.6579802645466479,KEGG Pathway
+FoxO signaling pathway,1,0.6611376589482784,KEGG Pathway
+Oxidative phosphorylation,1,0.6667086727978364,KEGG Pathway
+Vascular smooth muscle contraction,1,0.6667086727978364,KEGG Pathway
+Apelin signaling pathway,1,0.6775790576880698,KEGG Pathway
+Autophagy,1,0.6775790576880698,KEGG Pathway
+Estrogen signaling pathway,1,0.6775790576880698,KEGG Pathway
+Signaling pathways regulating pluripotency of stem cells,1,0.6932273539295698,KEGG Pathway
+Spinocerebellar ataxia,1,0.6932273539295698,KEGG Pathway
+Breast cancer,1,0.7032377968656874,KEGG Pathway
+Gastric cancer,1,0.7081205818922609,KEGG Pathway
+Adrenergic signaling in cardiomyocytes,1,0.7105319462195158,KEGG Pathway
+Oxytocin signaling pathway,1,0.7199810012904874,KEGG Pathway
+Cushing syndrome,1,0.7222949627775392,KEGG Pathway
+Non-alcoholic fatty liver disease,1,0.7222949627775392,KEGG Pathway
+Cellular senescence,1,0.7245899182309332,KEGG Pathway
+Hepatitis B,1,0.7379691236044731,KEGG Pathway
+JAK-STAT signaling pathway,1,0.7379691236044731,KEGG Pathway
+cGMP-PKG signaling pathway,1,0.7486235125775627,KEGG Pathway
+Hepatocellular carcinoma,1,0.7507021441186313,KEGG Pathway
+Pathways of neurodegeneration,3,0.7508076412823507,KEGG Pathway
+Tight junction,1,0.7527636913376168,KEGG Pathway
+Protein processing in endoplasmic reticulum,1,0.7568360897208036,KEGG Pathway
+Alcoholism,1,0.7853270312502514,KEGG Pathway
+Thermogenesis,1,0.853597831558695,KEGG Pathway
+Parkinson disease,1,0.8729377211837173,KEGG Pathway
+Olfactory transduction,2,0.8789484578066153,KEGG Pathway
+Huntington disease,1,0.9210558873163917,KEGG Pathway

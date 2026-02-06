@@ -1,0 +1,59 @@
+======================================================================
+BIOINFORMATICS ANALYSIS REPORT
+Gene Expression Analysis Pipeline
+Based on Liu et al. 2025 (PMC11805404)
+======================================================================
+
+STUDY OVERVIEW:
+----------------------------------------------------------------------
+This analysis implements the bioinformatics pipeline from:
+'Characterization of gene expression profiles in Alzheimer's
+disease and osteoarthritis: A bioinformatics study'
+
+METHODOLOGY:
+----------------------------------------------------------------------
+1. Data: GEO training/validation sets (AD: GSE5281, GSE28146, GSE29378, GSE122063; OA: GSE55235, GSE206848, GSE82107, GSE55457)
+2. Quality Control: PCA analysis for batch effects
+3. Differential Expression: DEG identification (adj. P < 0.05, |log2FC| > 0.5)
+4. Co-DEG Analysis: Identification of common DEGs between conditions
+5. PPI Network: Protein-protein interaction network construction
+6. Enrichment: GO/KEGG pathway enrichment (Enrichr)
+7. Validation: ROC curve analysis for biomarker potential
+
+KEY FINDINGS:
+----------------------------------------------------------------------
+Common upregulated DEGs: 155
+Common downregulated DEGs: 9
+Total Co-DEGs: 164
+
+CORE GENES IDENTIFIED:
+----------------------------------------------------------------------
+1. BTK
+2. CD28
+3. DOCK2
+4. NCKAP1L
+5. TLR7
+6. KIF20A
+7. CD37
+8. ARRB1
+9. TOP2A
+10. FUCA1
+
+BIOLOGICAL INTERPRETATION:
+----------------------------------------------------------------------
+The identified core genes represent potential:
+• Biomarkers for disease diagnosis
+• Therapeutic targets for drug development
+• Shared pathological mechanisms between conditions
+
+SUGGESTED NEXT STEPS:
+----------------------------------------------------------------------
+1. Validate findings in independent datasets
+2. Perform experimental validation (qRT-PCR, Western blot)
+3. Investigate gene functions through literature review
+4. Design functional studies to elucidate mechanisms
+5. Explore therapeutic potential through drug repurposing
+
+======================================================================
+Analysis completed successfully!
+======================================================================

@@ -1,0 +1,12 @@
+import os
+
+AD_TRAINING_IDS = ["GSE5281", "GSE28146", "GSE29378"]
+AD_VALIDATION_IDS = ["GSE122063"]
+OA_TRAINING_IDS = ["GSE55235", "GSE206848", "GSE82107"]
+OA_VALIDATION_IDS = ["GSE55457"]
+
+AD_TRAINING_MINIMAL = ["GSE28146"]
+OA_TRAINING_MINIMAL = ["GSE55235"]
+
+DEFAULT_CACHE_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "geo_cache")
+GEO_IDS_FILE = "geo_ids.txt"
